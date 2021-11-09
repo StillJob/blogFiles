@@ -1,0 +1,2 @@
+# blogFiles
+blog static files
